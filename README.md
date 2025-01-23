@@ -59,6 +59,12 @@ This project was completed as part of the **Final Year Project** for the **Intel
 2. Implement stereo vision principles for depth estimation.  
 3. Address challenges in multi-threaded synchronization and camera calibration.  
 
+## 👥 Collaborators  
+
+| [![Aymen HM.](https://github.com/aymen-hadj-mebarek.png)](https://github.com/aymen-hadj-mebarek) | [![Nadjib L.](https://github.com/Lacomine02.png)](https://github.com/Lacomine02) | [![Yasmine A.](https://github.com/JasminCoding.png)](https://github.com/JasminCoding) | [![Ramy D.](https://github.com/Wea-boo.png)](https://github.com/Wea-boo) |  
+|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|  
+| **[Your Name](https://github.com/yourusername)**                                               | **[Nadjib L.](https://github.com/collab1)**                                         | **[Yasmine A.](https://github.com/JasminCoding)**                                         | **[Ramy D.](https://github.com/Wea-boo)**                                         |  
+
 ### Advisors  
 - **Mr. Abada Lyes**: Provided guidance on stereo calibration and OpenCV integration.  
 
