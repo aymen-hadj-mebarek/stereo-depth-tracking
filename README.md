@@ -1,8 +1,8 @@
 # Stereo Vision Object Detection and Depth Estimation
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0%20(contrib)-green) ![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![License](https://img.shields.io/badge/License-MIT-orange)  
-**Developed as a Final Year Project for [University Name]**  
-**BSc in Computer Engineering**  
+**Developed as a Final Year Project for USTHB**  
+**MSc in Intellignet Computer Systems**  
 
 A real-time stereo vision system for detecting objects, calculating disparity, and estimating 3D coordinates using **SIFT feature matching**, **multi-threaded processing**, and **camera calibration**.  
 
